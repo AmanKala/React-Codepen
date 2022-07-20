@@ -1,3 +1,24 @@
+# Description:
+- A fully functional `Codepen` Webapp made with `ReactJS`.
+- Useful for quickly interpret the output of the corresponding HTML/XML, CSS and Javascript.
+- `Hooks` and `Components` are the basic building blocks of the webapp.
+- A custom hook has been defined with the name of `useLocalStorage`, to store the code written locally on the respective code editors.
+- Two packages are used to implement the code editors, which are -> `codemirror` and `codemirror2`.
+
+### Recources Referred:
+- React codemirror : https://www.npmjs.com/package/react-codemirror2
+- React codemirror user manual for features and options : https://codemirror.net/5/doc/manual.html
+- React iframe : https://www.npmjs.com/package/react-iframe
+- HTML vs XML : https://www.geeksforgeeks.org/html-vs-xml/
+
+### Screenshot of working:
+
+![image](https://user-images.githubusercontent.com/73444046/180014998-913da6c0-7a8c-489d-b1b1-9c3f138e39b4.png)
+
+<hr>
+
+# React Installation
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
